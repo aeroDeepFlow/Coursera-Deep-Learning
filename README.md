@@ -21,8 +21,7 @@ This repo contains all my work for this specialization. All the code base and im
   + Understand the key parameters in a neural network's architecture. 
 
   Code:
-  + [Week 2 - Phyton Basics with Numpy](https://github.com/aeroDeepFlow/Coursera-Deep-Learning/blob/master/Course%201%20Neural%20Networks%20and%20Deep%20Learning/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step.ipynb)
-
+  
   + [Week 2 - Logistic Regression with a Neural Network mindset]()
   + [Week 3 - Planar data classification with a hidden layer](https://github.com/aeroDeepFlow/Coursera-Deep-Learning/blob/master/Course%201%20Neural%20Networks%20and%20Deep%20Learning/Planar%20data%20classification%20with%20one%20hidden%20layer.ipynb)
   + [Week 4 - Building your Deep Neural Network: Step by Step](https://github.com/aeroDeepFlow/Coursera-Deep-Learning/blob/master/Course%201%20Neural%20Networks%20and%20Deep%20Learning/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step.ipynb)
